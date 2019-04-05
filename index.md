@@ -1,8 +1,7 @@
 ## Démos de nos modules Prestashop
 
+- Read the [English version](https://vincentbzt.github.io/Prestashop/english.html)
 - Développeur : Sitelab
-
-_Read the [English version](https://vincentbzt.github.io/Prestashop/english.html)._
 
 Bienvenue !  
 Retrouvez notre liste de modules Prestashop et accédez à nos vidéos de démonstration.  
@@ -12,7 +11,7 @@ Nous vous conseillons de les visionner en qualité HD (720p).
 Ne modifiez plus votre thème pour Noël ! Avec le module Joyeux Noël, ajoutez les éléments que vous souhaitez sans modifier votre thème.  [Voir la démo](https://youtu.be/0SH2PSptlRQ) (0:22).
 
 #### Super Zoom
-Super Zoom, le module de zoom idéal pour les images de vos pages produits !
+Super Zoom, le module de zoom idéal pour les images de vos pages produits ! [Voir la démo](https://youtu.be/l_qlINvSAPw) (0:11).
 
 #### Lottery
 Créez vos jeux concours personnalisés. [Voir la démo](https://youtu.be/elFg2o-bfYk) (1:40).
