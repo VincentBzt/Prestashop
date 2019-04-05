@@ -1,4 +1,6 @@
-## Sitelab : présentation de nos modules Prestashop
+## Démos de nos modules Prestashop
+
+- Développeur : Sitelab
 
 _Read the [English version](https://vincentbzt.github.io/Prestashop/english.html)._
 
@@ -7,7 +9,7 @@ Retrouvez notre liste de modules Prestashop et accédez à nos vidéos de démon
 Nous vous conseillons de les visionner en qualité HD (720p).
 
 #### Joyeux Noël
-Ne modifiez plus votre thème pour Noël ! Avec le module Joyeux Noël, ajoutez les éléments que vous souhaitez sans modifier votre thème.
+Ne modifiez plus votre thème pour Noël ! Avec le module Joyeux Noël, ajoutez les éléments que vous souhaitez sans modifier votre thème.  [Voir la démo](https://youtu.be/0SH2PSptlRQ) (0:22).
 
 #### Super Zoom
 Super Zoom, le module de zoom idéal pour les images de vos pages produits !
