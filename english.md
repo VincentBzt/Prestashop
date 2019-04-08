@@ -1,4 +1,4 @@
-### Welcome !
+<h3>Welcome !</h3>  
 Find our list of Prestashop addons and play our demo videos.  
 We advise you to watch them in HD quality (720p).
 
