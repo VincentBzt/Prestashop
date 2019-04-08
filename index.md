@@ -26,4 +26,4 @@ Lecteur PDF, le module idéal pour lire les PDF en ligne.
 <iframe src="https://player.vimeo.com/video/329087169" width="640" height="334" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #### Support
-Si vous avez relevé un bug, si vous avez une question ou pour toute demande, vous pouvez [nous contacter](https://addons.prestashop.com/fr/contactez-nous?id_product=2686).
+Si vous êtes intéressé par un de nos modules ou pour nous contacter, visitez la page officielle de la [boutique Prestashop](https://addons.prestashop.com/fr/2_community-developer?contributor=84).
