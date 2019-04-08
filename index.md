@@ -18,7 +18,9 @@ Créez vos jeux concours personnalisés. [Voir la démo](https://youtu.be/elFg2o
 Le module Mail Check vérifie instantannément les adresses e-mails lors de l'inscription. [Voir la démo](https://youtu.be/1RbPn3tPlA0){:target="_blank"} (0:21).
 
 #### Lecteur PDF
-Lecteur PDF, le module idéal pour lire les PDF en ligne.
+Lecteur PDF, le module idéal pour lire les PDF en ligne [Voir la démo](https://youtu.be/2-91f4ENTV0){:target="_blank"} (0:28).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-91f4ENTV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 #### Support
 Si vous avez relevé un bug, si vous avez une question ou pour toute demande, vous pouvez [nous contacter](https://addons.prestashop.com/fr/contactez-nous?id_product=2686).
