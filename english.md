@@ -5,7 +5,7 @@ We advise you to watch them in HD quality (720p).
 - Lire la [version Française](https://vincentbzt.github.io/Prestashop/)
 - Developer: Sitelab
 
-### Joyeux Noël
+### Merry Christmas
 Do not change your theme more for Christmas! Add the items you want without changing your theme.
 <iframe src="https://player.vimeo.com/video/329099737" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
