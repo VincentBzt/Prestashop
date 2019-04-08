@@ -26,4 +26,4 @@ PDF reader, the module for reading the PDF online.
 <iframe src="https://player.vimeo.com/video/329087169" width="640" height="334" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #### Support
-If you have noticed a bug, if you have a question or for any request, you can [contact us](https://addons.prestashop.com/en/contact-us?id_product=5129).
+If you are interested by one of our modules or to contact us, visit the official [Prestashop store](https://addons.prestashop.com/en/2_community-developer?contributor=84).
