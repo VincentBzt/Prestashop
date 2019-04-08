@@ -1,4 +1,4 @@
-### Bienvenue !  
+<h3>Bienvenue !</h3>  
 Retrouvez notre liste de modules Prestashop et accédez à nos vidéos de démonstration.  
 Nous vous conseillons de les visionner en qualité HD (720p).
 
