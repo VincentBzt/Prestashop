@@ -2,7 +2,7 @@
 Retrouvez notre liste de modules Prestashop et accédez à nos vidéos de démonstration.  
 Nous vous conseillons de les visionner en qualité HD (720p).
 
-- Read the [English version](https://vincentbzt.github.io/Prestashop/english.html)
+- Read the [English version](english.html)
 - Développeur : Sitelab
 
 ### Joyeux Noël
