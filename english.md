@@ -2,7 +2,7 @@
 Find our list of Prestashop addons and play our demo videos.  
 We advise you to watch them in HD quality (720p).
 
-- Lire la [version Française](https://vincentbzt.github.io/Prestashop/)
+- Lire la [version Française](./)
 - Developer: Sitelab
 
 ### Merry Christmas
